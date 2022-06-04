@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/api_provider.dart';
 import 'package:news_app/constants.dart';
-import 'package:news_app/home_screen.dart';
+import 'package:news_app/news_card_widget.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({Key? key}) : super(key: key);
